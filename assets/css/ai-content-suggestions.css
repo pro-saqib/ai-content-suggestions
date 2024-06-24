@@ -1,0 +1,12 @@
+#ai-content-suggestions {
+    margin-top: 20px;
+}
+#ai-content-suggestions textarea {
+    width: 100%;
+}
+#ai-content-suggestions #ai-suggestions {
+    margin-top: 10px;
+    background: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
